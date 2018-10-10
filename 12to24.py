@@ -1,3 +1,8 @@
+'''
+
+Program to convert 12 hour time format to 24hour time format
+
+'''
 import re
 
 time1 = '1:10:10AM'
