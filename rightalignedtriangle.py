@@ -1,3 +1,9 @@
+'''
+  Print right aligned staircase
+                              #
+                             ##
+                            ###
+'''
 import math
 import os
 import random

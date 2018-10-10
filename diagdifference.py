@@ -1,3 +1,8 @@
+'''
+
+Find difference between sums of two diagonals.
+
+'''
 import math
 import os
 import random

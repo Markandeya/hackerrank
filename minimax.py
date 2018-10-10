@@ -1,3 +1,8 @@
+'''
+
+Find the maximum and minimum values obtained by summing four of five integers.
+
+'''
 import math
 import os
 import random
